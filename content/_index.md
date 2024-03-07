@@ -66,7 +66,7 @@ sections:
           company: Monash University
           company_url: 'https://www.monash.edu/'
           company_logo: org-gc
-          location: California
+          location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
           description: |2-
@@ -75,14 +75,32 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+
+        - title: Research Assistant
+          company: AVC2 Lab at UESTC
+          company_url: 'http://www.avc2-lab.net/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Changdu, China
+          date_start: '2020-07-01'
+          date_end: '2021-08-01'
+          # description: Taught electronic engineering and researched semiconductor physics.
+
+        - title: Research Intern
+          company: MEGVII Research, Chengdu
+          company_url: 'http://www.avc2-lab.net/'
+          company_logo: org-x
+          location: Changdu, China
+          date_start: '2019-07-01'
+          date_end: '2020-03-01'
+          # description: Taught electronic engineering and researched semiconductor physics.
+
+        - title: Research Intern
+          company: Philips Research, Shanghai
+          company_url: 'http://www.avc2-lab.net/'
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2018-03-01'
+          date_end: '2019-03-01'
     design:
       columns: '2'
   - block: accomplishments
