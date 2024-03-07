@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2019-04-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.image.2018.03.017'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-04-01T00:00:00Z'
