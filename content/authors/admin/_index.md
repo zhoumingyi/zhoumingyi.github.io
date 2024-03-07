@@ -41,10 +41,10 @@ education:
       year: 2021-now
     - course: MEng in Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
-      year: 2009
+      year: 2020
     - course: BSc in Engineering
       institution: Wuhan of Technology
-      year: 2008
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
