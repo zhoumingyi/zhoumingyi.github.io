@@ -41,7 +41,7 @@ publication_short: In *ICSE'24 - Artifict Evaluation*
 tags: [On-device Security]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
