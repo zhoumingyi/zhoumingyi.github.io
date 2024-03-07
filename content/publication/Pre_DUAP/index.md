@@ -25,11 +25,11 @@ publishDate: '2020-09-15T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Pre-print']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: ""
+publication_short: ""
 
 abstract: A single perturbation can pose the most natural images to be misclassified by classifiers. In black-box setting, current universal adversarial attack methods utilize substitute models to generate the perturbation, then apply the perturbation to the attacked model. However, this transfer often produces inferior results. In this study, we directly work in the black-box setting to generate the universal adversarial perturbation. Besides, we aim to design an adversary generating a single perturbation having texture like stripes based on orthogonal matrix, as the top convolutional layers are sensitive to stripes. To this end, we propose an efficient Decision-based Universal Attack (DUAttack). With few data, the proposed adversary computes the perturbation based solely on the final inferred labels, but good transferability has been realized not only across models but also span different vision tasks. The effectiveness of DUAttack is validated through comparisons with other state-of-the-art attacks. The efficiency of DUAttack is also demonstrated on real world settings including the Microsoft Azure. In addition, several representative defense methods are struggling with DUAttack, indicating the practicability of the proposed method1.
 
