@@ -86,7 +86,7 @@ sections:
         - title: Research Intern
           company: MEGVII Research, Chengdu
           company_url: 'https://en.megvii.com/megvii_research/'
-          company_logo: org-x
+          company_logo: Megvii
           location: Changdu, China
           date_start: '2019-07-01'
           date_end: '2020-03-01'
@@ -95,7 +95,7 @@ sections:
         - title: Research Intern
           company: Philips Research, Shanghai
           company_url: 'http://www.avc2-lab.net/'
-          company_logo: org-x
+          company_logo: philips
           location: Shanghai, China
           date_start: '2018-03-01'
           date_end: '2019-03-01'
