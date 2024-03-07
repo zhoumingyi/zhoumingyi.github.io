@@ -77,7 +77,7 @@ sections:
         - title: Research Assistant
           company: AVC2 Lab at UESTC
           company_url: 'http://www.avc2-lab.net/'
-          company_logo: org-x
+          company_logo: uestc
           location: Changdu, China
           date_start: '2020-07-01'
           date_end: '2021-08-01'
