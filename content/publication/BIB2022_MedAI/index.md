@@ -28,11 +28,11 @@ publishDate: '2022-01-07T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-journal']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Brain Imaging and Behavior (2022)*
-publication_short: In *Brain Imaging and Behavior*
+publication_short: ""
 
 abstract: The diagnostic performance of a combined architecture on Parkinson’s disease using diffusion tensor imaging was evaluated. A convolutional neural network was trained from multiple parcellated brain regions. A greedy algorithm was proposed to combine the models from individual regions into a complex one. Total 305 Parkinson’s disease patients (aged 59.9±9.7 years old) and 227 healthy control subjects (aged 61.0±7.4 years old) were enrolled from 3 retrospective studies. The participants were divided into training with ten-fold cross-validation (N = 432) and an independent blind dataset (N = 100). Diffusion-weighted images were acquired from a 3T scanner. Fractional anisot- ropy and mean diffusivity were calculated and was subsequently parcellated into 90 cerebral regions of interest based on the Automatic Anatomic Labeling template. A convolutional neural network was implemented which contained three convolutional blocks and a fully connected layer. Each convolutional block consisted of a convolutional layer, activation layer, and pooling layer. This model was trained for each individual region. A greedy algorithm was implemented to combine multiple regions as the final prediction. The greedy algorithm predicted the area under curve of 94.1±3.2% from the combination of fractional anisotropy from 22 regions. The model performance analysis showed that the combination of 9 regions is equivalent. The best area under curve was 74.7±5.4% from the right postcentral gyrus. The current study proposed an architecture of convolutional neural network and a greedy algorithm to combine from multiple regions. With diffusion tensor imaging, the algorithm showed the potential to distinguish patients with Parkinson’s disease from normal control with satisfactory performance.
 
