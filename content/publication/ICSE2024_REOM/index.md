@@ -1,5 +1,5 @@
 ---
-title: 'ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems'
+title: 'Investigating White-Box Attacks for On-Device Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,9 +8,8 @@ authors:
   - Mingyi Zhou
   - XiangGao
   - Jing Wu
-  - John Grundy
-  - Xiao Chen
-  - Chunyang Chen
+  - Kui Liu
+  - Hailong Sun
   - Li Li
 
 # Author notes (optional)
@@ -18,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-07-13T00:00:00Z'
+date: '2024-04-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
