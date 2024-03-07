@@ -37,13 +37,13 @@ interests:
 education:
   courses:
     - course: PhD in Information Technology
-      institution: Stanford University
-      year: September 2021-now
+      institution: Monash University, Australia
+      year: 2021-now
     - course: MEng in Engineering
-      institution: University of Electronic Science and Technology of China (UESTC)
+      institution: University of Electronic Science and Technology of China (UESTC), China
       # year: 2020
     - course: BSc in Engineering
-      institution: Wuhan of Technology
+      institution: Wuhan of Technology, China
       # year: 2017
 
 # Skills
