@@ -29,9 +29,9 @@ bio: I am currently a third-year PhD student at Monash University in Australia, 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering for AI
+  - Responsible AI
+  - Program Analysis
 
 # Education to show in About widget
 education:
