@@ -40,7 +40,7 @@ education:
       institution: Monash University, Australia
       year: 2021-now
     - course: MEng in Engineering
-      institution: University of Electronic Science and Technology of China (UESTC), China
+      institution: University of Electronic Science and Technology of China, China
       # year: 2020
     - course: BSc in Engineering
       institution: Wuhan of Technology, China
@@ -100,7 +100,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=2emq9AoAAAAJ&hl=en
   - icon: github
@@ -112,9 +112,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
