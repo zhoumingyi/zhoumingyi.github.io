@@ -65,7 +65,7 @@ sections:
         - title: Sessional Teaching Associate
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: monash-university
+          company_logo: monash
           location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
