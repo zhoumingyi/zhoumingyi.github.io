@@ -36,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Information Technology
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      year: 2021-now
+    - course: MEng in Engineering
+      institution: University of Electronic Science and Technology of China (UESTC)
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Engineering
+      institution: Wuhan of Technology
       year: 2008
 
 # Skills
