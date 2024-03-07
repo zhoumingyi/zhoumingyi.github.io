@@ -40,7 +40,7 @@ education:
       institution: Monash University, Australia
       year: 2021-now
     - course: MEng in Engineering
-      institution: University of Electronic Science and Technology of China, China
+      institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
     - course: BSc in Engineering
       institution: Wuhan of Technology, China
