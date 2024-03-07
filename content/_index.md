@@ -247,7 +247,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Publications List
+      title: Other Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
