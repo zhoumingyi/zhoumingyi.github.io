@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Monash University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Monash University
+    url: https://www.monash.edu/it/humanise-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a third-year PhD student at Monash University in Australia, where I have the privilege of being mentored by [Prof John Grundy](https://sites.google.com/site/johncgrundy/), [Prof Li Li](https://lilicoding.github.io/), [Dr Chunyang Chen](https://chunyang-chen.github.io/), and [Dr Xiao Chen](https://research.monash.edu/en/persons/xiao-chen). My current research project is focused on using program analysis to enhance the reliability of deployed machine learning models. This includes assessing the risks associated with these models, safeguarding model information, and minimizing their vulnerability to attacks. Additionally, I am exploring ways to optimize machine learning programs post-deployment to boost inference efficiency.
 
 # Interests to show in About widget
 interests:
