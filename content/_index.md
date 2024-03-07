@@ -69,34 +69,7 @@ sections:
           location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-ECE4076 (2022/2023/2024 S1), FIT2093 (2023/2024 S1), ECE4179 (2022/2023 S2), FIT3162/3164 (2023 S1/S2), FIT5202 (2023 S2)
-        - title: Research Assistant
-          company: AVC2 Lab at UESTC
-          company_url: 'http://www.avc2-lab.net/'
-          company_logo: archive
-          location: Chengdu, China
-          date_start: '2020-07-01'
-          date_end: '2021-07-01'
-          # description: Taught electronic engineering and researched semiconductor physics.
-
-        - title: Research Intern
-          company: MEGVII Research, Chengdu
-          # company_url: 'http://www.avc2-lab.net/'
-          company_logo: archive
-          location: Chengdu, China
-          date_start: '2019-07-01'
-          date_end: '2020-03-01'
-
-        - title: Research Intern
-          company: Philips Research, Shanghai
-          # company_url: 'http://www.avc2-lab.net/'
-          company_logo: archive
-          location: Shanghai, China
-          date_start: '2018-03-01'
-          date_end: '2019-03-01'
+          # description: 
     design:
       columns: '2'
   - block: accomplishments
