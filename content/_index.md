@@ -118,7 +118,7 @@ sections:
           url: ''
 
         - date_end: ''
-          date_start: '2024-01-02'
+          date_start: '2023-12-10'
           description: ''
           icon: academia
           organization: AAAI'24
