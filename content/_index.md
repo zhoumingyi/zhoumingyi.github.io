@@ -65,7 +65,7 @@ sections:
         - title: Sessional Teaching Associate
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: org-x
+          company_logo: monash-university
           location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
@@ -85,7 +85,7 @@ sections:
 
         - title: Research Intern
           company: MEGVII Research, Chengdu
-          company_url: 'http://www.avc2-lab.net/'
+          company_url: 'https://en.megvii.com/megvii_research/'
           company_logo: org-x
           location: Changdu, China
           date_start: '2019-07-01'
