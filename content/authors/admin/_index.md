@@ -25,13 +25,13 @@ organizations:
     url: https://www.monash.edu/it/humanise-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a PhD candidate at Monash University, Australia. My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering for AI
+  - Responsible AI
+  - Program Analysis
 
 # Education to show in About widget
 education:
