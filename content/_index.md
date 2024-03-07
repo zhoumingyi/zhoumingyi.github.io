@@ -105,7 +105,7 @@ sections:
           icon: acm
           organization: ISSTA'24
           organization_url: https://conf.researchr.org/home/issta-2024
-          title: One paper has been accepted!
+          title: One paper has been accepted by ISSTA'24!
           url: ''
 
         - date_end: ''
@@ -115,6 +115,15 @@ sections:
           organization: Faculty of Information Technology
           organization_url: https://www.monash.edu/it
           title: Received a nomination for FIT Education Excellence 2023!
+          url: ''
+
+        - date_end: ''
+          date_start: '2024-01-02'
+          description: ''
+          icon: academia
+          organization: AAAI'24
+          organization_url: https://aaai.org/aaai-conference/
+          title: One paper has been accepted by AAAI'24!
           url: ''
         # - certificate_url: https://www.coursera.org
         #   date_end: ''
