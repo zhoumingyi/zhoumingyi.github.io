@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Monash University
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
