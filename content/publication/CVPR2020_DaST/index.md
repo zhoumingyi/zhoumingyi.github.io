@@ -1,5 +1,5 @@
 ---
-title: 'Investigating White-Box Attacks for On-Device Models'
+title: 'DaST: Data-free Substitute Training for Adversarial Attacks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
