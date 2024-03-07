@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Information Technology
       institution: Stanford University
-      year: 2021-now
+      year: September 2021-now
     - course: MEng in Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
