@@ -25,13 +25,13 @@ organizations:
     url: https://www.monash.edu/it/humanise-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a third-year PhD student at Monash University in Australia, where I have the privilege of being mentored by [Prof John Grundy](https://sites.google.com/site/johncgrundy/), [Prof Li Li](https://lilicoding.github.io/), [Dr Chunyang Chen](https://chunyang-chen.github.io/), and [Dr Xiao Chen](https://research.monash.edu/en/persons/xiao-chen). My current research project is focused on using program analysis to enhance the reliability of deployed machine learning models. This includes assessing the risks associated with these models, safeguarding model information, and minimizing their vulnerability to attacks. Additionally, I am exploring ways to optimize machine learning programs post-deployment to boost inference efficiency.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Software Engineering for AI
-  - Responsible AI
-  - Program Analysis
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a third-year PhD student at Monash University in Australia, where I have the privilege of being mentored by [Prof John Grundy](https://sites.google.com/site/johncgrundy/), [Prof Li Li](https://lilicoding.github.io/), [Dr Chunyang Chen](https://chunyang-chen.github.io/), and [Dr Xiao Chen](https://research.monash.edu/en/persons/xiao-chen). My current research project is focused on using program analysis to enhance the reliability of deployed machine learning models. This includes assessing the risks associated with these models, safeguarding model information, and minimizing their vulnerability to attacks. Additionally, I am exploring ways to optimize machine learning programs post-deployment to boost inference efficiency.
 {style="text-align: justify;"}
