@@ -8,9 +8,8 @@ authors:
   - Mingyi Zhou
   - XiangGao
   - Jing Wu
-  - John Grundy
-  - Xiao Chen
-  - Chunyang Chen
+  - Kui Liu
+  - Hailong Sun
   - Li Li
 
 # Author notes (optional)
@@ -18,11 +17,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-04-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-07-13T00:00:00Z'
+publishDate: '2024-04-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
