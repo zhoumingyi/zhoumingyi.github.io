@@ -65,7 +65,7 @@ sections:
         - title: Sessional Teaching Associate
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: obp
+          company_logo: org-gc
           location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
