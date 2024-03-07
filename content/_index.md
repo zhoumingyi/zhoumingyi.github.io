@@ -65,16 +65,14 @@ sections:
         - title: Sessional Teaching Associate
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Clayton, VIC, Australia
           date_start: '2022-02-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Units include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * ECE4076 (2022/2023/2024 S1), FIT2093 (2023/2024 S1), ECE4179 (2022/2023 S2), FIT3162/3164 (2023 S1/S2), FIT5202 (2023 S2)
 
         - title: Research Assistant
           company: AVC2 Lab at UESTC
