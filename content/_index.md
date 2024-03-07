@@ -126,23 +126,23 @@ sections:
           title: One paper has been accepted by AAAI'24!
           url: ''
 
-        - date_end: ''
-          date_start: '2023-10-13'
-          description: ''
-          icon: academia
-          organization: Faculty of Information Technology, Monash University
-          organization_url: https://www.monash.edu/it
-          title: Passed my progress review (second year)!
-          url: ''
+        # - date_end: ''
+        #   date_start: '2023-10-13'
+        #   description: ''
+        #   icon: academia
+        #   organization: Faculty of Information Technology, Monash University
+        #   organization_url: https://www.monash.edu/it
+        #   title: Passed my progress review (second year)!
+        #   url: ''
 
-        - date_end: ''
-          date_start: '2023-10-10'
-          description: ''
-          icon: acm
-          organization: ICSE'24
-          organization_url: https://conf.researchr.org/home/icse-2024
-          title: One paper has been accepted by ICSE'24!
-          url: ''
+        # - date_end: ''
+        #   date_start: '2023-10-10'
+        #   description: ''
+        #   icon: acm
+        #   organization: ICSE'24
+        #   organization_url: https://conf.researchr.org/home/icse-2024
+        #   title: One paper has been accepted by ICSE'24!
+        #   url: ''
         # - certificate_url: https://www.coursera.org
         #   date_end: ''
         #   date_start: '2021-01-25'
