@@ -21,7 +21,7 @@ date: '2024-04-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-08T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,15 +29,15 @@ publishDate: '2024-03-08T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and AnalysisJuly 2023*
-publication_short: In *ISSTA'23*
+publication: In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering 2024*
+publication_short: In *ICSE'24*
 
-abstract: More and more edge devices and mobile apps are leveraging deep learning (DL) capabilities. Deploying such models on devices – referred to as on-device models – rather than as remote cloud-hosted services, has gained popularity because it avoids transmitting user’s data off of the device and achieves high response time. However, on-device models can be easily attacked, as they can be accessed by unpacking corresponding apps and the model is fully exposed to attackers. Recent studies show that attackers can easily generate white-box-like attacks for an on-device model or even inverse its training data. To protect on-device models from white-box attacks, we propose a novel technique called model obfuscation. Specifically, model obfuscation hides and obfuscates the key information – structure, parameters and attributes – of models by renaming, parameter encapsulation, neural structure obfuscation obfuscation, shortcut injection, and extra layer injection. We have developed a prototype tool ModelObfuscator to automatically obfuscate on-device TFLite models. Our experiments show that this proposed approach can dramatically improve model security by significantly increasing the difficulty of parsing models’ inner information, without increasing the latency of DL models. Our proposed on-device model obfuscation has the potential to be a fundamental technique for on-device model deployment. Our prototype tool is publicly available at https://github.com/zhoumingyi/ModelObfuscator.
+abstract: Numerous mobile apps have leveraged deep learning capabilities. However, on-device models are vulnerable to attacks as they can be easily extracted from their corresponding mobile apps. Although the structure and parameters information of these models can be accessed, existing on-device attacking approaches only generate black-box attacks (i.e., indirect white-box attacks), which are less effective and efficient than white-box strategies. This is because mobile deep learning (DL) frameworks like TensorFlow Lite (TFLite) do not support gradient computing (referred to as non-debuggable models), which is necessary for white-box attacking algorithms. Thus, we argue that existing findings may underestimate the harmfulness of on-device attacks. To validate this, we systematically analyze the difficulties of transforming the on-device model to its debuggable version and propose a Reverse Engineering framework for On-device Models (REOM), which automatically reverses the compiled on-device TFLite model to its debuggable version, enabling attackers to launch white-box attacks. Our empirical results show that our approach is effective in achieving automated transformation (i.e., 92.6%) among 244 TFLite models. Compared with previous attacks using surrogate models, REOM enables attackers to achieve higher attack success rates (10.23%→89.03%) with a hundred times smaller attack perturbations (1.0→0.01). Our findings emphasize the need for developers to carefully consider their model deployment strategies, and use white-box methods to evaluate the vulnerability of on-device models. Our artifacts 1 are available.
 
 # Summary. An optional shortened abstract.
-summary: A novel approach that can significantly increase the difficulty of understanding the model information for human and automatic tools. It will not affect the model performance and only introduce small overheads.
+summary: A novel approach that can reverse engineer the compiled TFLite model. Our study shows current studies underestimate the risks of on-device DL models.
 
-tags: [Model Obfuscation]
+tags: [On-device Security]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/zhoumingyi/ModelObfuscator'
+url_code: 'https://github.com/zhoumingyi/REOM'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
@@ -59,7 +59,7 @@ url_code: 'https://github.com/zhoumingyi/ModelObfuscator'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'ModelObfuscator'
+  caption: 'REOM'
   focal_point: ''
   preview_only: false
 
