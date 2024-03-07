@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2020-08-05T00:00:00Z'
-doi: ''
+doi: '10.1109/CVPR42600.2020.00031'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-08-05T00:00:00Z'
