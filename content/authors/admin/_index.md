@@ -36,13 +36,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Information Technology
+    - course: PhD
       institution: Monash University, Australia
       year: 2021-now
-    - course: Master in Engineering.
+    - course: Master of Engineering, 2020
       institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
-    - course: BSc in Engineering
+    - course: Bachelor of Engineering, 2017
       institution: Wuhan of Technology, China
       # year: 2017
 
