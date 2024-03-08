@@ -39,7 +39,7 @@ education:
     - course: PhD in Information Technology
       institution: Monash University, Australia
       year: 2021-now
-    - course: MEng in Engineering
+    - course: Master in Engineering.
       institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
     - course: BSc in Engineering
