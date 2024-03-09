@@ -254,6 +254,10 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content from [publications list](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -266,7 +270,7 @@ sections:
       title: Other Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content from [publications list](./publication/).
         {{% /callout %}}
       filters:
         folders:
