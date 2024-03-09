@@ -256,7 +256,7 @@ sections:
       title: Featured Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content from [publications list](./publication/).
+        Access my [publications list](./publication/).
         {{% /callout %}}
       filters:
         folders:
