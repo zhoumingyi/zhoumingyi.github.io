@@ -39,7 +39,7 @@ summary: A novel approach that can train a substitute of the target DL model wit
 tags: [Data-free Substitute Training]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

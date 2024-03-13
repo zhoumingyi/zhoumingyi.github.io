@@ -40,7 +40,7 @@ summary: A novel approach that can reverse engineer the compiled TFLite model. O
 tags: [On-device Security]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
