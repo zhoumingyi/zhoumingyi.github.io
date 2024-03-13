@@ -50,57 +50,57 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Sessional Teaching Associate
-          company: Monash University
-          company_url: 'https://www.monash.edu/'
-          company_logo: monash
-          location: Clayton, VIC, Australia
-          date_start: '2022-02-01'
-          date_end: ''
-          description: |2-
-              Units include:
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Sessional Teaching Associate
+  #         company: Monash University
+  #         company_url: 'https://www.monash.edu/'
+  #         company_logo: monash
+  #         location: Clayton, VIC, Australia
+  #         date_start: '2022-02-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Units include:
 
-              * ECE4076 (2022/2023/2024 S1), FIT2093 (2023/2024 S1), ECE4179 (2022/2023 S2), FIT3162/3164 (2023 S1/S2), FIT5202 (2023 S2)
+  #             * ECE4076 (2022/2023/2024 S1), FIT2093 (2023/2024 S1), ECE4179 (2022/2023 S2), FIT3162/3164 (2023 S1/S2), FIT5202 (2023 S2)
 
-        - title: Research Assistant
-          company: AVC2 Lab at UESTC
-          company_url: 'http://www.avc2-lab.net/'
-          company_logo: uestc
-          location: Changdu, China
-          date_start: '2020-07-01'
-          date_end: '2021-08-01'
-          # description: Taught electronic engineering and researched semiconductor physics.
+  #       - title: Research Assistant
+  #         company: AVC2 Lab at UESTC
+  #         company_url: 'http://www.avc2-lab.net/'
+  #         company_logo: uestc
+  #         location: Changdu, China
+  #         date_start: '2020-07-01'
+  #         date_end: '2021-08-01'
+  #         # description: Taught electronic engineering and researched semiconductor physics.
 
-        - title: Research Intern
-          company: MEGVII Research, Chengdu
-          company_url: 'https://en.megvii.com/megvii_research/'
-          company_logo: Megvii
-          location: Changdu, China
-          date_start: '2019-07-01'
-          date_end: '2020-03-01'
-          # description: Taught electronic engineering and researched semiconductor physics.
+  #       - title: Research Intern
+  #         company: MEGVII Research, Chengdu
+  #         company_url: 'https://en.megvii.com/megvii_research/'
+  #         company_logo: Megvii
+  #         location: Changdu, China
+  #         date_start: '2019-07-01'
+  #         date_end: '2020-03-01'
+  #         # description: Taught electronic engineering and researched semiconductor physics.
 
-        - title: Research Intern
-          company: Philips Research, Shanghai
-          company_url: 'http://www.avc2-lab.net/'
-          company_logo: philips
-          location: Shanghai, China
-          date_start: '2018-03-01'
-          date_end: '2019-03-01'
-    design:
-      columns: '2'
+  #       - title: Research Intern
+  #         company: Philips Research, Shanghai
+  #         company_url: 'http://www.avc2-lab.net/'
+  #         company_logo: philips
+  #         location: Shanghai, China
+  #         date_start: '2018-03-01'
+  #         date_end: '2019-03-01'
+  #   design:
+  #     columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
