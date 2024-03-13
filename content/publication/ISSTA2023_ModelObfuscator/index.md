@@ -41,7 +41,7 @@ summary: A novel approach that can significantly increase the difficulty of unde
 tags: [Model Obfuscation]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
