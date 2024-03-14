@@ -43,7 +43,7 @@ education:
       institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
     - course: Bachelor of Engineering, 2017
-      institution: Wuhan of Technology, China
+      institution: Wuhan University of Technology, China
       # year: 2017
 
 # Skills
