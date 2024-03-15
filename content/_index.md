@@ -281,11 +281,9 @@ sections:
   #     view: compact
   #     columns: '2'
 
-  - block: skills
+  - block: accomplishments
     content:
       title: Recent Posts
-      subtitle: ''
-      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
