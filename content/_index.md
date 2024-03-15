@@ -290,7 +290,7 @@ sections:
       items:
 
         - date_end: ''
-          date_start: '2024-02-02'
+          date_start: ''
           description: ''
           # icon: acm
           organization: ''
