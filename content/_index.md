@@ -281,7 +281,7 @@ sections:
   #     view: compact
   #     columns: '2'
 
-  - block: collection
+  - block: skills
     content:
       title: Recent Posts
       subtitle: ''
