@@ -283,7 +283,7 @@ sections:
 
   - block: accomplishments
     content:
-      title: Recent Posts
+      title: Professional Services
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -291,7 +291,7 @@ sections:
 
         - date_end: ''
           date_start: '2024-03-02'
-          description: ''
+          description: 'Reviewer'
           icon: acm
           organization: ISSTA'24
           organization_url: https://conf.researchr.org/home/issta-2024
