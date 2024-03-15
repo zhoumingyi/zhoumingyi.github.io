@@ -265,7 +265,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: markdown
     content:
       title: Slected Publications
       text: |-
