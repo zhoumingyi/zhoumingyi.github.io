@@ -287,14 +287,14 @@ sections:
       subtitle: ''
       text: |-
         ## Reviewer: <br>
-        IEEE Transaction on Software Engineering <br>
-        IEEE Transaction on Image Processing <br>
-        IEEE Signal Processing Letters <br>
-        Knowledge-Based Systems <br>
-        Conference on Computer Vision and Pattern Recognition (CVPR) <br>
-        International Conference on Computer Vision (ICCV) <br>
-        European Conference on Computer Vision (ECCV) <br>
-        Asian Conference on Computer Vision (ACCV) <br>
+        - IEEE Transaction on Software Engineering <br>
+        - IEEE Transaction on Image Processing <br>
+        - IEEE Signal Processing Letters <br>
+        - Knowledge-Based Systems <br>
+        - Conference on Computer Vision and Pattern Recognition (CVPR) <br>
+        - International Conference on Computer Vision (ICCV) <br>
+        - European Conference on Computer Vision (ECCV) <br>
+        - Asian Conference on Computer Vision (ACCV) <br>
 
 
     design:
