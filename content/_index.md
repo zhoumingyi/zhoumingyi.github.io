@@ -329,7 +329,7 @@ sections:
           # icon: acm
           organization: Reviewer
           organization_url: ''
-          title: ECCV
+          title: European Conference on Computer Vision (ECCV)
           url: ''
         - date_end: ''
           date_start: '2024-01-23'
@@ -337,7 +337,7 @@ sections:
           # icon: acm
           organization: Reviewer
           organization_url: ''
-          title: ACCV
+          title: Asian Conference on Computer Vision (ACCV)
           url: ''
     design:
       # Choose a layout view
