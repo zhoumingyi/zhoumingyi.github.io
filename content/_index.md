@@ -297,6 +297,48 @@ sections:
           organization_url: ''
           title: IEEE Transaction on Software Engineering
           url: ''
+
+        - date_end: ''
+          date_start: '2024-02-02'
+          description: ''
+          # icon: acm
+          organization: Reviewer
+          organization_url: ''
+          title: IEEE Transaction on Image Processing
+          url: ''
+
+        - date_end: ''
+          date_start: '2024-02-02'
+          description: ''
+          # icon: acm
+          organization: Reviewer
+          organization_url: ''
+          title: CVPR
+          url: ''
+        - date_end: ''
+          date_start: '2024-02-02'
+          description: ''
+          # icon: acm
+          organization: Reviewer
+          organization_url: ''
+          title: ICCV
+          url: ''
+        - date_end: ''
+          date_start: '2024-02-02'
+          description: ''
+          # icon: acm
+          organization: Reviewer
+          organization_url: ''
+          title: ECCV
+          url: ''
+        - date_end: ''
+          date_start: '2024-02-02'
+          description: ''
+          # icon: acm
+          organization: Reviewer
+          organization_url: ''
+          title: ACCV
+          url: ''
     design:
       # Choose a layout view
       view: compact
