@@ -280,7 +280,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: Service
+  - block: services
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Professional Services'
@@ -297,74 +297,11 @@ sections:
         - date_end: ''
           date_start: '2024-03-02'
           description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: IEEE Transaction on Software Engineering
+          icon: acm
+          organization: ISSTA'24
+          organization_url: https://conf.researchr.org/home/issta-2024
+          title: 🎉 One paper has been accepted by ISSTA'24!
           url: ''
-
-        - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: IEEE Transaction on Image Processing!
-          url: ''
-
-        - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: CVPR!
-          url: ''
-
-        - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: CVPR!
-          url: ''
-
-        - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: ECCV!
-          url: ''
-
-        - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: ICCV!
-          url: ''
-
-       - date_end: ''
-          date_start: '2024-03-02'
-          description: ''
-          # icon: acm
-          # organization: ISSTA'24
-          # organization_url: https://conf.researchr.org/home/issta-2024
-          title: ACCV!
-          url: ''
-
-        # - date_end: ''
-        #   date_start: '2023-10-13'
-        #   description: ''
-        #   icon: academia
-        #   organization: Faculty of Information Technology, Monash University
-        #   organization_url: https://www.monash.edu/it
-        #   title: Passed my progress review (second year)!
-        #   url: ''
 
       design:
         columns: '2'
