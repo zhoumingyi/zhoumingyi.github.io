@@ -239,7 +239,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: markdown
+  - block: collection
     content:
       title: Slected Publications
       text: |-
