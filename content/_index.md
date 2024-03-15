@@ -290,12 +290,12 @@ sections:
       items:
 
         - date_end: ''
-          date_start: ''
-          description: 'IEEE Transaction on Software Engineering'
+          date_start: '2024-02-02'
+          description: ''
           # icon: acm
-          organization: Journal
+          organization: Reviewer
           organization_url: ''
-          title: Reviewer
+          title: IEEE Transaction on Software Engineering
           url: ''
 
         - date_end: ''
