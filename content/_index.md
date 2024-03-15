@@ -286,7 +286,9 @@ sections:
       title: Professional Services
       subtitle: ''
       text: |-
-        Reviewers
+        Reviewers: \\
+        IEEE Transaction on Software Engineering
+
     design:
       columns: '2'
 
