@@ -244,7 +244,7 @@ sections:
       title: Slected Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content from [publications list](./publication/).
+        Quickly discover relevant content from [here](./publication/).
         {{% /callout %}}
       count: 10
       filters:
