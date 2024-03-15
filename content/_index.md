@@ -303,8 +303,8 @@ sections:
           title: IEEE Transaction on Software Engineering
           url: ''
 
-      design:
-        columns: '2'
+    design:
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
