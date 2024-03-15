@@ -313,7 +313,7 @@ sections:
           # icon: acm
           organization: Reviewer
           organization_url: ''
-          title: CVPR
+          title: Conference on Computer Vision and Pattern Recognition (CVPR)
           url: ''
         - date_end: ''
           date_start: '2023-02-07'
@@ -321,7 +321,7 @@ sections:
           # icon: acm
           organization: Reviewer
           organization_url: ''
-          title: ICCV
+          title: International Conference on Computer Vision (ICCV)
           url: ''
         - date_end: ''
           date_start: '2024-01-18'
