@@ -246,6 +246,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content from [publications list](./publication/).
         {{% /callout %}}
+      count: 10
       filters:
         folders:
           - publication
@@ -300,95 +301,6 @@ sections:
     design:
       columns: '2'
 
-
-  # - block: accomplishments
-  #   content:
-  #     title: Professional Services
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     items:
-
-  #       - date_end: ''
-  #         date_start: ''
-  #         description: '2024-02-02'
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: IEEE Transaction on Software Engineering
-  #         url: ''
-
-  #       - date_end: ''
-  #         date_start: '2024-02-02'
-  #         description: ''
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: IEEE Transaction on Image Processing
-  #         url: ''
-
-  #       - date_end: ''
-  #         date_start: '2022-11-02'
-  #         description: ''
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: Conference on Computer Vision and Pattern Recognition (CVPR)
-  #         url: ''
-  #       - date_end: ''
-  #         date_start: '2023-02-07'
-  #         description: ''
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: International Conference on Computer Vision (ICCV)
-  #         url: ''
-  #       - date_end: ''
-  #         date_start: '2024-01-18'
-  #         description: ''
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: European Conference on Computer Vision (ECCV)
-  #         url: ''
-  #       - date_end: ''
-  #         date_start: '2024-01-23'
-  #         description: ''
-  #         # icon: acm
-  #         organization: Reviewer
-  #         organization_url: ''
-  #         title: Asian Conference on Computer Vision (ACCV)
-  #         url: ''
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
-
-  # - block: services
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Professional Services'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-
-  #       - date_end: ''
-  #         date_start: '2024-03-02'
-  #         description: ''
-  #         icon: acm
-  #         organization: ISSTA'24
-  #         organization_url: https://conf.researchr.org/home/issta-2024
-  #         title: IEEE Transaction on Software Engineering
-  #         url: ''
-
-  #   design:
-  #     columns: '2'
   # - block: collection
   #   id: talks
   #   content:
