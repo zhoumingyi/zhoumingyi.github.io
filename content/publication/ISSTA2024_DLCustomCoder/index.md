@@ -5,7 +5,7 @@ title: 'Model-less Is The Best Model: Generating Pure Code Implementations to Re
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Mingyi Zhou
+  - *Mingyi Zhou*
   - XiangGao
   - Pei Liu
   - John Grundy
