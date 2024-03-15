@@ -290,11 +290,11 @@ sections:
       items:
 
         - date_end: ''
-          date_start: '2024-03-02'
+          date_start: '2024-02'
           description: 'Reviewer'
           icon: acm
-          organization: ISSTA'24
-          organization_url: https://conf.researchr.org/home/issta-2024
+          # organization: ISSTA'24
+          # organization_url: https://conf.researchr.org/home/issta-2024
           title: IEEE Transaction on Software Engineering
           url: ''
     design:
