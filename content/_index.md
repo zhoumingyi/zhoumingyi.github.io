@@ -293,7 +293,7 @@ sections:
           date_start: ''
           description: 'IEEE Transaction on Software Engineering'
           # icon: acm
-          organization: ''
+          organization: Journal
           organization_url: ''
           title: Reviewer
           url: ''
