@@ -288,6 +288,7 @@ sections:
       subtitle: ''
       text: |-
         ## Reviewer: <br>
+        - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
         - IEEE Transaction on Image Processing <br>
         - IEEE Signal Processing Letters <br>
