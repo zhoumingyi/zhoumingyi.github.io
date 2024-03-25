@@ -6,7 +6,7 @@ title: 'ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Ba
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingyi Zhou
-  - XiangGao
+  - Xiang Gao
   - Jing Wu
   - John Grundy
   - Xiao Chen

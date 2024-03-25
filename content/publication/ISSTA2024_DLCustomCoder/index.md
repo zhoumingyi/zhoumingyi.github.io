@@ -6,7 +6,7 @@ title: 'Model-less Is The Best Model: Generating Pure Code Implementations to Re
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingyi Zhou
-  - XiangGao
+  - Xiang Gao
   - Pei Liu
   - John Grundy
   - Xiao Chen

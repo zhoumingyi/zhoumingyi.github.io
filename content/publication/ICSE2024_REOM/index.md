@@ -6,7 +6,7 @@ title: 'Investigating White-Box Attacks for On-Device Models'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingyi Zhou
-  - XiangGao
+  - Xiang Gao
   - Jing Wu
   - Kui Liu
   - Hailong Sun
