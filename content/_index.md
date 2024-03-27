@@ -116,6 +116,15 @@ sections:
       items:
 
         - date_end: ''
+          date_start: '2024-03-27'
+          description: ''
+          icon: archive
+          organization: Google
+          organization_url: https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships
+          title: 🎉 I got the Google Conference Scholarship!
+          url: ''
+
+        - date_end: ''
           date_start: '2024-03-02'
           description: ''
           icon: acm
