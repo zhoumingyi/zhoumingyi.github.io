@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-02-12T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1609/aaai.v38i19.30171'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-03-01T00:00:00Z'
