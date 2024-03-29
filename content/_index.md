@@ -249,7 +249,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: publicaton
+    id: publication
     content:
       title: Slected Publications
       text: |-
