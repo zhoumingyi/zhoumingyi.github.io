@@ -39,10 +39,10 @@ education:
     - course: PhD
       institution: Monash University, Australia
       year: 2021-now
-    - course: Master of Engineering, 2020
+    - course: Master of Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
       # year: 2020
-    - course: Bachelor of Engineering, 2017
+    - course: Bachelor of Engineering
       institution: Wuhan University of Technology, China
       # year: 2017
 
