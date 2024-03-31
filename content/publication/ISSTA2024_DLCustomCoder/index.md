@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: ''
 url_code: 'https://github.com/zhoumingyi/CustomDLCoder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
