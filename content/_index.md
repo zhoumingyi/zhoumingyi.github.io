@@ -121,7 +121,7 @@ sections:
           icon: archive
           organization: Google
           organization_url: https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships
-          title: 🎉 Got the Google Conference Scholarship! Thanks Google!
+          title: 🎉 Received the Google Conference Scholarship! Thanks Google!
           url: ''
 
         - date_end: ''
