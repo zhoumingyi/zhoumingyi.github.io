@@ -122,6 +122,7 @@ sections:
           organization_url: https://conf.researchr.org/home/icse-2024
           title: 🎉 Presented our paper on ICSE'24 Lisbon!
           url: ''
+
         - date_end: ''
           date_start: '2024-03-27'
           description: ''
