@@ -120,7 +120,7 @@ sections:
           icon: acm
           organization: ICSE'24
           organization_url: https://conf.researchr.org/home/icse-2024
-          title: 🎉 Presented our paper on ICSE'24 Lisbon!
+          title: 🎉 Presented our paper on ICSE'24, Lisbon!
           url: ''
           
         - date_end: ''
