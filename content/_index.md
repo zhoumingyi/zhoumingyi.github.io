@@ -115,14 +115,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2024-4-17'
+          date_start: '2024-04-17'
           description: ''
           icon: acm
           organization: ICSE'24
           organization_url: https://conf.researchr.org/home/icse-2024
           title: 🎉 Presented our paper on ICSE'24 Lisbon!
           url: ''
-
+          
         - date_end: ''
           date_start: '2024-03-27'
           description: ''
