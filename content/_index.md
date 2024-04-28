@@ -114,7 +114,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
+        - date_end: ''
+          date_start: '2024-4-17'
+          description: ''
+          icon: acm
+          organization: ICSE'24
+          organization_url: https://conf.researchr.org/home/icse-2024
+          title: 🎉 Presented our paper on ICSE'24, Lisbon!
+          url: ''
         - date_end: ''
           date_start: '2024-03-27'
           description: ''
@@ -158,42 +165,6 @@ sections:
         #   organization: Faculty of Information Technology, Monash University
         #   organization_url: https://www.monash.edu/it
         #   title: Passed my progress review (second year)!
-        #   url: ''
-
-        - date_end: ''
-          date_start: '2023-10-10'
-          description: ''
-          icon: acm
-          organization: ICSE'24
-          organization_url: https://conf.researchr.org/home/icse-2024
-          title: 🎉 One paper has been accepted by ICSE'24!
-          url: ''
-        # - certificate_url: https://www.coursera.org
-        #   date_end: ''
-        #   date_start: '2021-01-25'
-        #   description: ''
-        #   icon: coursera
-        #   organization: Coursera
-        #   organization_url: https://www.coursera.org
-        #   title: Neural Networks and Deep Learning
-        #   url: ''
-        # - certificate_url: https://www.edx.org
-        #   date_end: ''
-        #   date_start: '2021-01-01'
-        #   description: Formulated informed blockchain models, hypotheses, and use cases.
-        #   icon: edx
-        #   organization: edX
-        #   organization_url: https://www.edx.org
-        #   title: Blockchain Fundamentals
-        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
         #   url: ''
     design:
       columns: '2'
