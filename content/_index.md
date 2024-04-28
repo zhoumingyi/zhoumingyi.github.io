@@ -138,7 +138,7 @@ sections:
           icon: acm
           organization: ISSTA'24
           organization_url: https://conf.researchr.org/home/issta-2024
-          title: 🎉 One paper has been accepted by ISSTA'24!
+          title: 🎉 One paper has been accepted by the first cycle of ISSTA'24!
           url: ''
 
         - date_end: ''
