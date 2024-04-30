@@ -30,7 +30,7 @@ bio: I am a third-year PhD candidate at Monash University, Australia. My researc
 # Interests to show in About widget
 interests:
   - Software Engineering for AI
-  - Responsible AI Deployment
+  - Mobile AI Security
   - AI Compiler
 
 # Education to show in About widget
