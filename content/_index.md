@@ -114,6 +114,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - date_end: ''
+          date_start: '2024-04-17'
+          description: ''
+          icon: acm
+          organization: ICSE'24
+          organization_url: https://conf.researchr.org/home/icse-2024
+          title: 🎉 Our paper "LLM for Mobile':' An Initial Roadmap" has been invited to be published on ACM TOSEM! 
+          url: ''
+
         - date_end: ''
           date_start: '2024-04-17'
           description: ''
@@ -150,14 +160,14 @@ sections:
           title: 🎉 Received a nomination for FIT Education Excellence 2023!
           url: ''
 
-        - date_end: ''
-          date_start: '2023-12-10'
-          description: ''
-          icon: academia
-          organization: AAAI'24
-          organization_url: https://aaai.org/aaai-conference/
-          title: 🎉 One paper has been accepted by AAAI'24!
-          url: ''
+        # - date_end: ''
+        #   date_start: '2023-12-10'
+        #   description: ''
+        #   icon: academia
+        #   organization: AAAI'24
+        #   organization_url: https://aaai.org/aaai-conference/
+        #   title: 🎉 One paper has been accepted by AAAI'24!
+        #   url: ''
 
         # - date_end: ''
         #   date_start: '2023-10-13'
