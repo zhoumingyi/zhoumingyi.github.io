@@ -116,12 +116,12 @@ sections:
       items:
 
         - date_end: ''
-          date_start: '2024-04-17'
+          date_start: '2024-05-09'
           description: ''
           icon: acm
-          organization: ICSE'24
-          organization_url: https://conf.researchr.org/home/icse-2024
-          title: 🎉 Our paper "LLM for Mobile':' An Initial Roadmap" has been invited to be published on ACM TOSEM! 
+          organization: TOSEM
+          organization_url: https://dl.acm.org/journal/tosem
+          title: 🎉 Our paper "LLM for Mobile':' An Initial Roadmap" has been invited to be presented on ACM TOSEM! 
           url: ''
 
         - date_end: ''
