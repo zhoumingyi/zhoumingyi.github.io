@@ -121,7 +121,7 @@ sections:
           icon: acm
           organization: TOSEM
           organization_url: https://dl.acm.org/journal/tosem
-          title: 🎉 Our paper "LLM for Mobile: An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
+          title: 🎉 Our paper "LLM for Mobile':' An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
           url: ''
 
         - date_end: ''
