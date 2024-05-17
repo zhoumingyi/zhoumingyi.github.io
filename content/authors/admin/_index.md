@@ -3,7 +3,7 @@
 title: Mingyi Zhou
 
 # Name pronunciation (optional)
-# name_pronunciation: Min-E Chow
+name_pronunciation: Pronunce:Min-Yee Joh
 
 # Full name (for SEO)
 first_name: Mingyi
