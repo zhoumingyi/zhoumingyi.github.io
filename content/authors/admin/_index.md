@@ -3,11 +3,11 @@
 title: Mingyi Zhou
 
 # Name pronunciation (optional)
-name_pronunciation: Pronunce:Min-Yee Joh
+name_pronunciation: Min-Yee Joh (周鸣一)
 
 # Full name (for SEO)
 first_name: Mingyi
-last_name: Zhou (周鸣一)
+last_name: Zhou
 
 # Status emoji
 status:
