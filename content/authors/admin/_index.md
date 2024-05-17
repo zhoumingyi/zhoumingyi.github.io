@@ -7,7 +7,7 @@ name_pronunciation: Pronunce:Min-Yee Joh
 
 # Full name (for SEO)
 first_name: Mingyi
-last_name: Zhou
+last_name: Zhou (周鸣一)
 
 # Status emoji
 status:
