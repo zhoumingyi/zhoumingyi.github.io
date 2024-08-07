@@ -7,7 +7,7 @@ title: 'Concealing Sensitive Samples against Gradient Leakage in Federated Learn
 authors:
   - Jing Wu
   - Munawar Hayat
-  - Mingyi Zhou
+  - admin
   - Mehrtash Harandi
 
 # Author notes (optional)

@@ -5,7 +5,7 @@ title: 'ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Ba
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Mingyi Zhou
+  - admin
   - Xiang Gao
   - Jing Wu
   - John Grundy
