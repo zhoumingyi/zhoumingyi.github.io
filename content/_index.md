@@ -125,6 +125,15 @@ sections:
           url: ''
 
         - date_end: ''
+          date_start: '2024-07-23'
+          description: ''
+          icon: acm
+          organization: Faculty of Information Technology, Monash University
+          organization_url: https://www.monash.edu/it
+          title: 🎉 Received one FIT PhD Supplementary Funding!
+          url: ''
+
+        - date_end: ''
           date_start: '2024-05-09'
           description: ''
           icon: acm
@@ -158,15 +167,6 @@ sections:
           organization: ISSTA'24
           organization_url: https://conf.researchr.org/home/issta-2024
           title: 🎉 One paper has been accepted by the first cycle of ISSTA'24!
-          url: ''
-
-        - date_end: ''
-          date_start: '2024-01-02'
-          description: ''
-          icon: acm
-          organization: Faculty of Information Technology, Monash University
-          organization_url: https://www.monash.edu/it
-          title: 🎉 Received a nomination for FIT Education Excellence 2023!
           url: ''
 
         # - date_end: ''
