@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://zhoumingyi.github.io/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/issta2024_dlcustomcoder/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/icse2024_reom/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/icse2024_reom/ICSE2024_REOM.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/issta2023_modelobfuscator/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/issta2023_modelobfuscator/ISSTA2023_ModelObfuscator.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/cvpr2020_dast/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/cvpr2020_dast/CVPR2020_DaST.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/icse2024_reom-demo/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/aaai2024_dcs2/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/aaai2024_dcs2/AAAI2024_DCS2.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/bib2022_medai/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/bib2022_medai/BIB2022_MedAI.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/pre_duap/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/pre_duap/Pre_DUAP.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/spic2019_trn-pd/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/publication/spic2019_trn-pd/SPIC2019_TRN-PD.pdf</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/on-device-security/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/model-obfuscation/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/data-free-substitute-training/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/concealing-samples-in-fl/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/dl-for-parkinsons-disease/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/dattack/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhoumingyi.github.io/tag/dl-for-rank-estimation/</loc>
+  <lastmod>2024-03-09T11:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
