@@ -45,6 +45,8 @@ profiles:
     url: https://www.linkedin.com/in/mingyi-zhou-920417208/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
+  - icon: weixin
+    link: uploads/wechat.jpg
 
 interests:
   - Artificial Intelligence
