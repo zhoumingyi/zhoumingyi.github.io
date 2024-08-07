@@ -116,12 +116,21 @@ sections:
       items:
 
         - date_end: ''
+          date_start: '2024-08-07'
+          description: ''
+          icon: acm
+          organization: ASE'24
+          organization_url: https://conf.researchr.org/track/ase-2024/ase-2024-research
+          title: 🎉 One paper has been accepted by ASE'24!
+          url: ''
+
+        - date_end: ''
           date_start: '2024-05-09'
           description: ''
           icon: acm
           organization: TOSEM
           organization_url: https://dl.acm.org/journal/tosem
-          title: 🎉 Our paper "LLM for Mobile':' An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
+          title: 🎉 Our paper "LLM for Mobile An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
           url: ''
 
         - date_end: ''
