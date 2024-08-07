@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mingyi Zhou
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Min-Yee Joh
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Mingyi
-last_name: Zhou
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Monash University
-    url: https://www.monash.edu/it/humanise-lab
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,42 +47,42 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Software Engineering for AI
-  - Mobile AI Security
-  - AI Compiler
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD
-    institution: Monash University, Australia
-    date_start: 2021-09-01
-    date_end: now
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on "Reliable AI Deployment on Mobile Apps".
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: Master of Engineering
-    institution: University of Electronic Science and Technology of China (UESTC)
-    date_start: 2017-09-01
-    date_end: 2020-06-31
-    # summary: |
-    #   GPA: 3.8/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bachelor of Engineering
-    institution: Wuhan University of Technology, China
-    date_start: 2013-09-01
-    date_end: 2017-06-31
-    # summary: |
-    #   GPA: 3.4/4.0
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
