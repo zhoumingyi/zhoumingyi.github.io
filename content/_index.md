@@ -130,7 +130,7 @@ sections:
           icon: acm
           organization: Faculty of Information Technology, Monash University
           organization_url: https://www.monash.edu/it
-          title: 🎉 Received one FIT PhD Supplementary Funding!
+          title: 🎉 Received the FIT PhD Supplementary Funding!
           url: ''
 
         - date_end: ''
@@ -157,7 +157,7 @@ sections:
           icon: archive
           organization: Google
           organization_url: https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships
-          title: 🎉 Received the Google Conference Scholarship! Thanks Google!
+          title: 🎉 Received the Google Conference Scholarship!
           url: ''
 
         - date_end: ''
