@@ -289,7 +289,7 @@ sections:
       subtitle: ''
       text: |-
         ## Program Committee: <br>
-        - AAAI
+        - Annual AAAI Conference on Artificial Intelligence (AAAI) <br>
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
