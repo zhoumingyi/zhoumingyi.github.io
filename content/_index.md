@@ -288,6 +288,8 @@ sections:
       title: Professional Services
       subtitle: ''
       text: |-
+        ## Program Committee: <br>
+        - AAAI
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
