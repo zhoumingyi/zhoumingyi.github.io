@@ -290,6 +290,7 @@ sections:
       text: |-
         ## Program Committee: <br>
         - Annual AAAI Conference on Artificial Intelligence (AAAI) <br>
+        - International Conference on Software Engineering (ICSE), Artifact Evaluation Track <br>
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
