@@ -289,17 +289,17 @@ sections:
       subtitle: ''
       text: |-
         ## Program Committee: <br>
-        - Annual AAAI Conference on Artificial Intelligence (AAAI’25) <br>
-        - International Conference on Software Engineering (ICSE‘24), Artifact Evaluation Track <br>
+        - Annual AAAI Conference on Artificial Intelligence (AAAI'25) <br>
+        - International Conference on Software Engineering (ICSE'24), Artifact Evaluation Track <br>
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
         - IEEE Transaction on Image Processing <br>
         - IEEE Signal Processing Letters <br>
         - Knowledge-Based Systems <br>
-        - Conference on Computer Vision and Pattern Recognition (CVPR'22, '23, '24) <br>
+        - Conference on Computer Vision and Pattern Recognition (CVPR'22, 23, 24) <br>
         - International Conference on Computer Vision (ICCV'23) <br>
-        - European Conference on Computer Vision (ECCV'22, '24) <br>
+        - European Conference on Computer Vision (ECCV'22, 24) <br>
         - Asian Conference on Computer Vision (ACCV'24) <br>
 
 
