@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 38th Annual AAAI Conference on Artificial Intelligence 2024*
-publication_short: In The 38th Annual AAAI Conference on Artificial Intelligence 2024 **（AAAI'24, 21.3%）**
+publication_short: In The 38th Annual AAAI Conference on Artificial Intelligence 2024 **（AAAI'24, acceptance rate 21.3%）**
 
 abstract: Federated Learning (FL) is a distributed learning paradigm that enhances users’ privacy by eliminating the need for clients to share raw, private data with the server. Despite the success, recent studies expose the vulnerability of FL to model inversion attacks, where adversaries reconstruct users’ private data via eavesdropping on the shared gradient information. We hypothesize that a key factor in the success of such attacks is the low entanglement among gradients per data within the batch during stochastic optimization. This creates a vulnerability that an adversary can exploit to reconstruct the sensitive data. Building upon this insight, we present a simple, yet effective defense strategy that obfuscates the gradients of the sensitive data with concealed samples. To achieve this, we propose synthesizing concealed samples to mimic the sensitive data at the gradient level while ensuring their visual dissimilarity from the actual sensitive data. Com- pared to the previous art, our empirical evaluations suggest that the proposed technique provides the strongest protection while simultaneously maintaining the FL performance. Code is located at https://github.com/JingWu321/DCS-2.
 
