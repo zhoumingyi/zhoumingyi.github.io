@@ -116,6 +116,15 @@ sections:
       items:
 
         - date_end: ''
+          date_start: '2024-09-29'
+          description: ''
+          icon: acm
+          organization: MSR'25
+          organization_url: https://2025.msrconf.org/
+          title: Serving as a Junior PC member in MSR'25
+          url: ''
+
+        - date_end: ''
           date_start: '2024-08-07'
           description: ''
           icon: acm
@@ -291,6 +300,7 @@ sections:
         ## Program Committee: <br>
         - Annual AAAI Conference on Artificial Intelligence (AAAI'25) <br>
         - International Conference on Software Engineering (ICSE'25), Artifact Evaluation Track <br>
+        - Mining Software Repositories (MSR'25)
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
