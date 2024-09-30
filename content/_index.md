@@ -304,8 +304,8 @@ sections:
         ## Reviewer: <br>
         - ACM Computing Surveys <br>
         - IEEE Transaction on Software Engineering <br>
+        - ACM Transaction on Software Engineering and Methodology <br>
         - IEEE Transaction on Image Processing <br>
-        - IEEE Signal Processing Letters <br>
         - Knowledge-Based Systems <br>
         - Conference on Computer Vision and Pattern Recognition (CVPR'22, 23, 24) <br>
         - International Conference on Computer Vision (ICCV'23) <br>
