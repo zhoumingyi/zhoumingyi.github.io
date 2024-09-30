@@ -150,15 +150,6 @@ sections:
           organization_url: https://dl.acm.org/journal/tosem
           title: 🎉 Our paper "LLM for Mobile An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
           url: ''
-
-        - date_end: ''
-          date_start: '2024-04-17'
-          description: ''
-          icon: acm
-          organization: ICSE'24
-          organization_url: https://conf.researchr.org/home/icse-2024
-          title: 🎉 Presented our paper on ICSE'24, Lisbon!
-          url: ''
           
         - date_end: ''
           date_start: '2024-03-27'
