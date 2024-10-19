@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-10-27T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1145/3691620.3694998'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-08-07T00:00:00Z'
@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/zhoumingyi/DynaMO'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
