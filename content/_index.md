@@ -298,7 +298,7 @@ sections:
         - ACM Transaction on Software Engineering and Methodology <br>
         - IEEE Transaction on Image Processing <br>
         - Knowledge-Based Systems <br>
-        - Conference on Computer Vision and Pattern Recognition (CVPR'22, 23, 24) <br>
+        - Conference on Computer Vision and Pattern Recognition (CVPR'22, 23, 24, 25) <br>
         - International Conference on Computer Vision (ICCV'23) <br>
         - European Conference on Computer Vision (ECCV'22, 24) <br>
         - Asian Conference on Computer Vision (ACCV'24) <br>
