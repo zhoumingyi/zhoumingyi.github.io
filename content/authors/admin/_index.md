@@ -25,7 +25,7 @@ organizations:
     url: https://www.monash.edu/it/humanise-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year PhD candidate at Monash University, Australia. My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am in my final (forth) year as a PhD candidate at Monash University, Australia. I will join Beihang University as an Assistant Professor, working with Prof. Chunming Hu and Prof. Li Li.
 
 # Interests to show in About widget
 interests:
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a third-year PhD student in HumaniSE lab, Monash University in Australia, where I have the privilege of being mentored by [Prof Li Li](https://lilicoding.github.io/), [Prof John Grundy](https://sites.google.com/site/johncgrundy/), [Prof Chunyang Chen](https://chunyang-chen.github.io/), and [Dr Xiao Chen](https://research.monash.edu/en/persons/xiao-chen) (in a sequence of the length of supervision). I was a PhD student in Monash SMAT Lab, leading by Prof Li Li. My current research project is focused on using SE techniques such as program analysis to analyze and enhance the reliability of deployed machine learning (ML) systems, especially for smart mobile apps. This includes assessing the risks associated with ML systems, protecting their intellectual property, and minimizing their attacking surface. Additionally, I am exploring ways to optimize machine learning programs on mobile devices to improve inference efficiency.
+I am in my final (forth) year as a PhD candidate in HumaniSE lab, Monash University, Australia. I will join Beihang University as an Assistant Professor, working with Prof. Chunming Hu and Prof. Li Li. I have the privilege of being mentored by [Prof Li Li](https://lilicoding.github.io/), [Prof John Grundy](https://sites.google.com/site/johncgrundy/), [Prof Chunyang Chen](https://chunyang-chen.github.io/), and [Dr Xiao Chen](https://research.monash.edu/en/persons/xiao-chen) (in a sequence of the length of supervision) in PhD. I was a PhD student in Monash SMAT Lab, leading by Prof Li Li. My current research project is focused on using SE/System solutions such as program analysis to analyze and enhance the reliability of deployed machine learning (ML) systems, especially for smart mobile apps. This includes assessing the risks associated with ML systems, protecting their intellectual property, and minimizing their attacking surface. Additionally, I am exploring ways to optimize machine learning programs on mobile devices to improve inference efficiency.
 {style="text-align: justify;"}
