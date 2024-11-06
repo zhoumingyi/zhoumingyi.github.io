@@ -157,7 +157,7 @@ sections:
           icon: archive
           organization: Google
           organization_url: https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships
-          title: 🎉 Received the Google Travel Grant!
+          title: 🎉 Received the Google Travel Grant (6000$)!
           url: ''
 
         - date_end: ''
