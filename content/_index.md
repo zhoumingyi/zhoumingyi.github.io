@@ -116,6 +116,15 @@ sections:
       items:
 
         - date_end: ''
+          date_start: '2024-11-06'
+          description: ''
+          icon: acm
+          organization: TOSEM
+          organization_url: https://dl.acm.org/journal/tosem
+          title: 🎉 Our paper "LLM for Mobile An Initial Roadmap" has been accepted by TOSEM! 
+          url: ''
+
+        - date_end: ''
           date_start: '2024-09-29'
           description: ''
           icon: acm
@@ -141,15 +150,6 @@ sections:
           organization_url: https://www.monash.edu/it
           title: 🎉 Received the FIT PhD Supplementary Funding!
           url: ''
-
-        - date_end: ''
-          date_start: '2024-05-09'
-          description: ''
-          icon: acm
-          organization: TOSEM
-          organization_url: https://dl.acm.org/journal/tosem
-          title: 🎉 Our paper "LLM for Mobile An Initial Roadmap" has been invited to be presented on ACM TOSEM SE2030 Special Issue! 
-          url: ''
           
         - date_end: ''
           date_start: '2024-03-27'
@@ -157,7 +157,7 @@ sections:
           icon: archive
           organization: Google
           organization_url: https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships
-          title: 🎉 Received the Google Conference Scholarship!
+          title: 🎉 Received the Google Travel Grant!
           url: ''
 
         - date_end: ''

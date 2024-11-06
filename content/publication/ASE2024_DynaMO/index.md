@@ -1,5 +1,5 @@
 ---
-title: 'DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators (Just Accepted)'
+title: 'DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
