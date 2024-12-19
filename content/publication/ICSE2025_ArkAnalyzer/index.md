@@ -39,9 +39,9 @@ abstract: ArkTS is a new programming language dedicated to developing apps for t
 methods have several problems when handling the ArtTS code. To bridge the gap, we design and implement a framework named ArkAnalyzer and make it publicly available as an open-source project. Our ArkAnalyzer addresses the aforementioned problems and has already integrated a number of fundamental static analysis functions (e.g., control-flow graph constructions, call graph constructions, etc.) that are ready to be reused by developers to implement OpenHarmony app analyzers focusing on statically resolving dedicated issues such as performance bug detection, privacy leaks detection, compatibility issues detection, etc. Experiment results show that our ArkAnalyzer achieves both high analyzing efficiency and high effectiveness. In addition, we open-sourced the dataset that has numerous real-world ArkTS Apps.
 
 # Summary. An optional shortened abstract.
-summary: A novel approach that can reverse engineer the compiled TFLite model. Our study shows current studies underestimate the risks of on-device DL models.
+summary: A static analysis framework for OpenHarmony Apps.
 
-tags: [On-device Security]
+tags: [OpenHarmony Analysis]
 
 # Display this page in the Featured widget?
 featured: false
