@@ -42,7 +42,7 @@ achieves both high analyzing efficiency and high effectiveness. In addition, we 
 # Summary. An optional shortened abstract.
 summary: A static analysis framework for OpenHarmony Apps.
 
-tags: [On-device Security]
+tags: [OpenHarmony Analysis]
 
 # Display this page in the Featured widget?
 featured: false
