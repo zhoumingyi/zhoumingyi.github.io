@@ -40,9 +40,9 @@ methods have several problems when handling the ArtTS code. To bridge the gap, w
 achieves both high analyzing efficiency and high effectiveness. In addition, we open-sourced the dataset that has numerous real-world ArkTS Apps.
 
 # Summary. An optional shortened abstract.
-summary: A static analysis framework for OpenHarmony Apps.
+summary: A novel approach that can reverse engineer the compiled TFLite model. Our study shows current studies underestimate the risks of on-device DL models.
 
-tags: [OpenHarmony Analysis]
+tags: [On-device Security]
 
 # Display this page in the Featured widget?
 featured: false
