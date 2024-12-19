@@ -35,7 +35,7 @@ publication_types: ['paper-journal']
 # Publication name and optional abbreviated publication name.
 publication: In *ACM Transactions on Software Engineering and Methodology*
 # publication_short: In Proceedings of the 46th IEEE/ACM International Conference on Software Engineering 2024, Research Track **(ICSE'24, acceptance rate 22.3%)**
-publication_short: In ACM Transactions on Software Engineering and Methodology **TOSEM**
+publication_short: In ACM Transactions on Software Engineering and Methodology **TOSEM'24**
 
 abstract: When mobile meets LLMs, mobile app users deserve to have more intelligent usage experiences. For this to happen, we argue that there is a strong need to apply LLMs for the mobile ecosystem. We therefore provide a research roadmap for guiding our fellow researchers to achieve that as a whole. In this roadmap, we sum up six directions that we believe are urgently required for research to enable native intelligence in mobile devices. In each direction, we further summarize the current research progress and the gaps that still need to be filled by our fellow researchers.
 
