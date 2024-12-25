@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Monash University
-    url: https://www.monash.edu/it/humanise-lab
+  - name: Beihang University
+    url: https://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am in my final (forth) year as a PhD candidate at Monash University, Australia. I will join Beihang University as an Assistant Professor, working with Prof. Chunming Hu and Prof. Li Li.
@@ -38,13 +38,13 @@ education:
   courses:
     - course: PhD
       institution: Monash University, Australia
-      year: 2021-now
+      year: 2024
     - course: Master of Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
-      # year: 2020
+      year: 2020
     - course: Bachelor of Engineering
       institution: Wuhan University of Technology, China
-      # year: 2017
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
