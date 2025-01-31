@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-01-10 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper of the first static analysis framework ["ArkAnalyzer"](https://gitee.com/openharmony-sig/arkanalyzer) for OpenHarmony has been released and open sourced, welcome to use and cite it! :sparkles: :smile:

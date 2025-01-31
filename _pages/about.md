@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, Beihang University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +22,14 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am now an assistant professor at Beihang University, working with Prof. Chunming Hu and Prof. Li Li. I have the privilege of being mentored by [Prof. Li Li](https://lilicoding.github.io/), [Prof. John Grundy](https://sites.google.com/site/johncgrundy/), [Prof. Chunyang Chen](https://chunyang-chen.github.io/), and [Dr. Xiao Chen](https://research.monash.edu/en/persons/xiao-chen) (in a sequence of the length of supervision) in PhD. I was a PhD student in Monash HumaniSE Lab and SMAT Lab. Prior to joining Monash University, I worked with [Prof. Yipeng Liu](https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/) in UESTC as a master student.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests include AI4SE, SE4AI, mobile software engineering, and AI security. If you are interested in my research, please feel free to contact me.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Email: mingyi.zhou@monash.edu
