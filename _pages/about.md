@@ -30,6 +30,6 @@ announcements:
 
 I am now an assistant professor at Beihang University, working with Prof. Chunming Hu and Prof. Li Li. I obtained my Ph.D. from Monash University. I have the privilege of being mentored by [Prof. Li Li](https://lilicoding.github.io/), [Prof. John Grundy](https://sites.google.com/site/johncgrundy/), [Prof. Chunyang Chen](https://chunyang-chen.github.io/), and [Dr. Xiao Chen](https://research.monash.edu/en/persons/xiao-chen) (in a sequence of the length of supervision) at Monash HumaniSE Lab (leading by Prof. John Grundy) and SMAT Lab (leading by Prof. Li Li). Prior to joining Monash University, I worked with [Prof. Yipeng Liu](https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/) in UESTC as a master student. I obtained my Bachelor's degree from Wuhan University of Technology.
 
-My current research interests include AI4SE, SE4AI, mobile software engineering, and AI security. If you are interested in my research, please feel free to contact me.
+My current research interests include SE4AI, AI4SE, mobile software engineering, AI security, and computer vision. If you are interested in my research, please feel free to contact me.
 
 Email: mingyi.zhou@monash.edu
