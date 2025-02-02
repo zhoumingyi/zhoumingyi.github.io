@@ -387,7 +387,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-llm-for-mobile-an-initial-roadmap-has-been-accepted-by-acm-tosem-sparkles-smile",
           title: 'Our paper “LLM for Mobile An Initial Roadmap” has been accepted by ACM...',
           description: "",
-          section: "News",},{id: "news-our-paper-of-the-first-static-analysis-framework-arkanalyzer-for-openharmony-has-been-released-and-open-sourced-welcome-to-use-and-cite-it-sparkles-smile",
+          section: "News",},{id: "news-our-paper-of-the-first-static-analysis-framework-arkanalyzer-for-openharmony-has-been-accepted-by-icse-25-seip-and-open-sourced-welcome-to-use-and-cite-it-sparkles-smile",
           title: 'Our paper of the first static analysis framework “ArkAnalyzer” for OpenHarmony has been...',
           description: "",
           section: "News",},{id: "news-my-phd-thesis-towards-improving-the-reliability-of-deployed-deep-learning-software-has-been-released-sparkles-smile",
