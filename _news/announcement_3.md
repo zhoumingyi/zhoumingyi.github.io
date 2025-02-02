@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper of the first static analysis framework ["ArkAnalyzer"](https://gitee.com/openharmony-sig/arkanalyzer) for OpenHarmony has been released and open sourced, welcome to use and cite it! :sparkles: :smile:
+Our paper of the first static analysis framework ["ArkAnalyzer"](https://gitee.com/openharmony-sig/arkanalyzer) for OpenHarmony has been accepted by ICSE'25-SEIP and open sourced, welcome to use and cite it! :sparkles: :smile:
