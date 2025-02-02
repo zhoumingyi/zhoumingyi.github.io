@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ["LLM for Mobile An Initial Roadmap"](https://dl.acm.org/journal/tosem) has been released!  :sparkles: :smile:
+Our paper ["LLM for Mobile An Initial Roadmap"](https://dl.acm.org/journal/tosem) has been accepted by ACM TOSEM!  :sparkles: :smile:
