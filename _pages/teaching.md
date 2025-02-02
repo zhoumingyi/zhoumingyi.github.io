@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Teaching Associate (2022 - 2024):**
 
-Organize your courses by years, topics, or universities, however you like!
+- Monash FIT2093 (Introduction to Cyber Security)
+- Monash FIT5202 (Data Processing for Big Data)
+- Monash FIT3163/3164 (Data Science Project)
+- Monash ECE4076 (Computer Vision)
+- Monash ECE4179 (Neural Networks and Deep Learning)
+
+
