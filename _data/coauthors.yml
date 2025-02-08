@@ -1,16 +1,28 @@
-"Li":
-  - firstname: ["Li Li"]
+"li":
+  - firstname: ["Li"]
     url: https://lilicoding.github.io/
 
-"John":
-  - firstname: ["John Grundy", "John G."]
+"grundy":
+  - firstname: ["John", "J."]
     url: https://sites.google.com/site/johncgrundy/
 
-"Xiang":
-  - firstname: ["Xiang Gao"]
+"gao":
+  - firstname: ["Xiang"]
     url: https://gaoxiang9430.github.io/
 
-"Chunyang":
-  - firstname: ["Chunyang Chen"]
+"chen":
+  - firstname: ["Chunyang"]
     url: https://chunyang-chen.github.io/
+
+"wu":
+  - firstname: ["Jing"]
+    url: https://jingwu321.github.io/
+
+"zhu":
+  - firstname: ["Ce"]
+    url: https://www.avc2-lab.net/~eczhu/
+  
+"chen":
+  - firstname: ["Xiao"]
+    url: https://www.newcastle.edu.au/profile/xiao-chen
 
