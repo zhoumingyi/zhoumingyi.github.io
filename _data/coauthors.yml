@@ -1,66 +1,66 @@
-"li":
-  - firstname: ["Li"]
-    url: https://lilicoding.github.io/
+# "li":
+#   - firstname: ["Li"]
+#     url: https://lilicoding.github.io/
 
-"grundy":
-  - firstname: ["John", "J."]
-    url: https://sites.google.com/site/johncgrundy/
+# "grundy":
+#   - firstname: ["John", "J."]
+#     url: https://sites.google.com/site/johncgrundy/
 
-"gao":
-  - firstname: ["Xiang"]
-    url: https://gaoxiang9430.github.io/
+# "gao":
+#   - firstname: ["Xiang"]
+#     url: https://gaoxiang9430.github.io/
 
-"chen":
-  - firstname: ["Chunyang"]
-    url: https://chunyang-chen.github.io/
+# "chen":
+#   - firstname: ["Chunyang"]
+#     url: https://chunyang-chen.github.io/
 
-  - firstname: ["Xiao"]
-    url: https://www.newcastle.edu.au/profile/xiao-chen
+#   - firstname: ["Xiao"]
+#     url: https://www.newcastle.edu.au/profile/xiao-chen
 
-"wu":
-  - firstname: ["Jing"]
-    url: https://jingwu321.github.io/
+# "wu":
+#   - firstname: ["Jing"]
+#     url: https://jingwu321.github.io/
 
-"zhu":
-  - firstname: ["Ce"]
-    url: https://www.avc2-lab.net/~eczhu/
+# "zhu":
+#   - firstname: ["Ce"]
+#     url: https://www.avc2-lab.net/~eczhu/
 
-"klein":
-  - firstname: ["Jacques"]
-    url: https://jacquesklein2302.github.io/
+# "klein":
+#   - firstname: ["Jacques"]
+#     url: https://jacquesklein2302.github.io/
 
-"bissyande":
-  - firstname: ["Tegawende", "Tegawende F."]
-    url: https://bissyande.github.io/
+# "bissyande":
+#   - firstname: ["Tegawende", "Tegawende F."]
+#     url: https://bissyande.github.io/
 
-"zhao":
-  - firstname: ["Yanjie"]
-    url: https://yanjiezhao96.github.io/
+# "zhao":
+#   - firstname: ["Yanjie"]
+#     url: https://yanjiezhao96.github.io/
 
-"liu":
-  - firstname: ["Pei"]
-    url: https://gspeiliu.github.io/
+# "liu":
+#   - firstname: ["Pei"]
+#     url: https://gspeiliu.github.io/
 
-  - firstname: ["Yonghui"]
-    url: https://dannygooo.github.io/
+#   - firstname: ["Yonghui"]
+#     url: https://dannygooo.github.io/
 
-  - firstname: ["Shuaicheng"]
-    url: http://www.liushuaicheng.org/
+#   - firstname: ["Shuaicheng"]
+#     url: http://www.liushuaicheng.org/
 
-  - firstname: ["Yipeng"]
-    url: https://scholar.google.com/citations?user=I9xbDjkAAAAJ&hl=en
+#   - firstname: ["Yipeng"]
+#     url: https://scholar.google.com/citations?user=I9xbDjkAAAAJ&hl=en
 
-  - firstname: ["Kui"]
-    url: https://kui-liu.github.io/
+#   - firstname: ["Kui"]
+#     url: https://kui-liu.github.io/
 
 
-"harandi":
-  - firstname: ["Mehrtash"]
-    url: https://sites.google.com/site/mehrtashharandi/
+# "harandi":
+#   - firstname: ["Mehrtash"]
+#     url: https://sites.google.com/site/mehrtashharandi/
 
-"wang":
-  - firstname: ["Haoyu"]
-    url: https://howiepku.github.io/
+# "wang":
+#   - firstname: ["Haoyu"]
+#     url: https://howiepku.github.io/
 
 
 
