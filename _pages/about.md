@@ -10,9 +10,9 @@ profile:
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Personal Page in Chinese: https://shi.buaa.edu.cn/zhoumingyi/zh_CN/index/220142/list/index.htm </p>
     <p>Email: zhoumingyi@buaa.edu.cn</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+    <p>Address: C704, The New Main Building, Colleage Road, Haidian District </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
