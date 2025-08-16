@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the CCF-Huawei Populus euphratica Forest Fund! :sparkles: :smile:
+Received one 2025 CCF-Huawei Populus euphratica Forest Fund! :sparkles: :smile:
