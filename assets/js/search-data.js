@@ -375,10 +375,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-received-the-google-travel-grant-6000-sparkles-smile",
-          title: 'Received the Google Travel Grant (6000$)! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-one-paper-about-dynamic-model-obfuscation-has-been-accepted-by-ase-24-sparkles-smile",
+    },{id: "news-one-paper-about-dynamic-model-obfuscation-has-been-accepted-by-ase-24-sparkles-smile",
           title: 'One paper about dynamic model obfuscation has been accepted by ASE’24! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "news-our-paper-llm-for-mobile-an-initial-roadmap-has-been-accepted-by-acm-tosem-congratulations-to-daihang-and-the-team-sparkles-smile",
@@ -398,6 +395,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-papers-has-been-accepted-by-icse-26-research-track-congratulations-to-zhihao-and-the-team-sparkles-smile",
           title: 'One papers has been accepted by ICSE’26 Research Track! Congratulations to Zhihao and...',
+          description: "",
+          section: "News",},{id: "news-our-paper-uicompass-ui-map-guided-mobile-task-automation-via-adaptive-action-generation-has-been-accepted-by-emnlp-main-congratulations-to-yuanzhang-and-the-team-sparkles-smile",
+          title: 'Our paper “UICOMPASS: UI Map Guided Mobile Task Automation via Adaptive Action Generation”...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
