@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "UICOMPASS: UI Map Guided Mobile Task Automation via Adaptive Action Generation" has been accepted by EMNLP Main! Congratulations to Yuanzhang and the team. :sparkles: :smile:
+Our paper "UICOMPASS: UI Map Guided Mobile Task Automation via Adaptive Action Generation" has been accepted by EMNLP Main! Congratulations to Yuanzhang and the team! :sparkles: :smile:
