@@ -95,7 +95,7 @@
   doi = {10.1145/3691620.3694998},
   abstract = {Deploying deep learning (DL) models on mobile applications (Apps) has become ever-more popular. However, existing studies show attackers can easily reverse-engineer mobile DL models in Apps to steal intellectual property or generate effective attacks. A recent approach, Model Obfuscation, has been proposed to defend against such reverse engineering by obfuscating DL model representations, such as weights and computational graphs, without affecting model performance. These existing model obfuscation methods use static methods to obfuscate the model representation, or they use half-dynamic methods but require users to restore the model information through additional input arguments. However, these static methods or half-dynamic methods cannot provide enough protection for on-device DL models. Attackers can use dynamic analysis to mine the sensitive information in the inference codes as the correct model information and intermediate results must be recovered at runtime for static and half-dynamic obfuscation methods. We assess the vulnerability of the existing obfuscation strategies using an instrumentation method and tool, DLModelExplorer, that dynamically extracts correct sensitive model information (i.e., weights, computational graph) at runtime. Experiments show it achieves very high attack performance (e.g., 98.76\% of weights extraction rate and 99.89\% of obfuscating operator classification rate). To defend against such attacks based on dynamic instrumentation, we propose DynaMO, a Dynamic Model Obfuscation strategy similar to Homomorphic Encryption. The obfuscation and recovery process can be done through simple linear transformation for the weights of randomly coupled eligible operators, which is a fully dynamic obfuscation strategy. Experiments show that our proposed strategy can dramatically improve model security compared with the existing obfuscation strategies, with only negligible overheads for on-device models. Our prototype tool is publicly available at https://github.com/zhoumingyi/DynaMO.},
   booktitle = {Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},
-  pages = {204–215},
+  pages = {204-215},
   numpages = {12},
   keywords = {SE for AI, AI safety, on-device AI},
   location = {Sacramento, CA, USA},
@@ -118,7 +118,7 @@
   doi = {10.1145/3650212.3652119},
   abstract = {Recent studies show that on-device deployed deep learning (DL) models, such as those of Tensor Flow Lite (TFLite), can be easily extracted from real-world applications and devices by attackers to generate many kinds of adversarial and other attacks. Although securing deployed on-device DL models has gained increasing attention, no existing methods can fully prevent these attacks. Traditional software protection techniques have been widely explored. If on-device models can be implemented using pure code, such as C++, it will open the possibility of reusing existing robust software protection techniques. However, due to the complexity of DL models, there is no automatic method that can translate DL models to pure code. To fill this gap, we propose a novel method, CustomDLCoder, to automatically extract on-device DL model information and synthesize a customized executable program for a wide range of DL models. CustomDLCoder first parses the DL model, extracts its backend computing codes, configures the extracted codes, and then generates a customized program to implement and deploy the DL model without explicit model representation. The synthesized program hides model information for DL deployment environments since it does not need to retain explicit model representation, preventing many attacks on the DL model. In addition, it improves ML performance because the customized code removes model parsing and preprocessing steps and only retains the data computing process. Our experimental results show that CustomDLCoder improves model security by disabling on-device model sniffing. Compared with the original on-device platform (i.e., TFLite), our method can accelerate model inference by 21.0\% and 24.3\% on x86-64 and ARM64 platforms, respectively. Most importantly, it can significantly reduce memory consumption by 68.8\% and 36.0\% on x86-64 and ARM64 platforms, respectively.},
   booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
-  pages = {174–185},
+  pages = {174-185},
   numpages = {12},
   keywords = {AI safety, SE for AI, software optimization for AI deployment},
   location = {Vienna, Austria},
@@ -182,7 +182,7 @@
   doi = {10.1145/3597926.3598113},
   abstract = {More and more edge devices and mobile apps are leveraging deep learning (DL) capabilities. Deploying such models on devices – referred to as on-device models – rather than as remote cloud-hosted services, has gained popularity because it avoids transmitting user’s data off of the device and achieves high response time. However, on-device models can be easily attacked, as they can be accessed by unpacking corresponding apps and the model is fully exposed to attackers. Recent studies show that attackers can easily generate white-box-like attacks for an on-device model or even inverse its training data. To protect on-device models from white-box attacks, we propose a novel technique called model obfuscation. Specifically, model obfuscation hides and obfuscates the key information – structure, parameters and attributes – of models by renaming, parameter encapsulation, neural structure obfuscation, shortcut injection, and extra layer injection. We have developed a prototype tool ModelObfuscator to automatically obfuscate on-device TFLite models. Our experiments show that this proposed approach can dramatically improve model security by significantly increasing the difficulty of parsing models’ inner information, without increasing the latency of DL models. Our proposed on-device model obfuscation has the potential to be a fundamental technique for on-device model deployment. Our prototype tool is publicly available at https://github.com/zhoumingyi/ModelObfuscator.},
   booktitle = {Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis},
-  pages = {1005–1017},
+  pages = {1005-1017},
   numpages = {13},
   keywords = {AI safety, SE for AI, model deployment, model obfuscation},
   location = {Seattle, WA, USA},
@@ -219,3 +219,12 @@
   selected={true},
 }
 
+@article{ali2019early,
+  title={Early diagnosis of Parkinson's disease from multiple voice recordings by simultaneous sample and feature selection},
+  author={Ali, Liaqat and Zhu, Ce and Zhou, Mingyi and Liu, Yipeng},
+  journal={Expert Systems with Applications},
+  volume={137},
+  pages={22--28},
+  year={2019},
+  publisher={Elsevier}
+}
