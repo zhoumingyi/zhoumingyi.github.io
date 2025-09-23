@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhou, Zhou*]
+  last_name: [Zhou, Zhou*, Zhou#]
   first_name: [Mingyi]
 
   style: apa
