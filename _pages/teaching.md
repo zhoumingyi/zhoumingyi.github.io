@@ -7,7 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-**Teaching Associate (2022 - 2024):**
+**Beihang University (2025 - now):**
+
+- Mobile Application Development and Testing
+- Software Security
+
+
+**Monash University (2022 - 2024):**
 
 - Monash FIT2093 (Introduction to Cyber Security)
 - Monash FIT5202 (Data Processing for Big Data)
