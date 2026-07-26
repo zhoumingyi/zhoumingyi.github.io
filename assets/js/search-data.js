@@ -375,10 +375,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-about-dynamic-model-obfuscation-has-been-accepted-by-ase-24-sparkles-smile",
-          title: 'One paper about dynamic model obfuscation has been accepted by ASE’24! :sparkles: :smile:...',
-          description: "",
-          section: "News",},{id: "news-two-papers-has-been-accepted-by-fse-25-industry-track-congratulations-to-farong-zhihao-and-the-team-sparkles-smile",
+    },{id: "news-two-papers-has-been-accepted-by-fse-25-industry-track-congratulations-to-farong-zhihao-and-the-team-sparkles-smile",
           title: 'Two papers has been accepted by FSE’25 Industry Track! Congratulations to Farong, Zhihao,...',
           description: "",
           section: "News",},{id: "news-received-one-2025-ccf-huawei-populus-euphratica-forest-fund-sparkles-smile",
@@ -425,6 +422,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-perceptual-alignment-reveals-vulnerability-in-unlearned-diffusion-models-has-been-accepted-by-acm-multimedia-congratulations-to-jing-and-the-team-sparkles-smile",
           title: 'Our paper “Perceptual Alignment Reveals Vulnerability in Unlearned Diffusion Models” has been accepted...',
+          description: "",
+          section: "News",},{id: "news-our-paper-security-of-cross-platform-and-cross-language-software-technologies-a-systematic-review-has-been-accepted-by-acm-tosem-congratulations-to-yutong-jiatong-and-the-team-sparkles-smile",
+          title: 'Our paper “Security of Cross-Platform and Cross-Language Software Technologies: A Systematic Review” has...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
