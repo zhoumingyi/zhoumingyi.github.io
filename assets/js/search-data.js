@@ -479,7 +479,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%69%6E%67%79%69.%7A%68%6F%75@%6D%6F%6E%61%73%68.%65%64%75", "_blank");
+          window.open("mailto:%7A%68%6F%75%6D%69%6E%67%79%69@%62%75%61%61.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-github',
