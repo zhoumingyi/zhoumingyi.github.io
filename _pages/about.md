@@ -10,11 +10,12 @@ profile:
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: zhoumingyi@buaa.edu.cn</p>
+    <p>Email: zhoumingyi [AT] buaa [DOT] edu [DOT] cn</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+fundings: false # temporarily hide the funding and support section
 social: true # includes social icons at the bottom of the page
 
 announcements:
