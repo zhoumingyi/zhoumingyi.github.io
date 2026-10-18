@@ -135,6 +135,55 @@ body.sticky-bottom-footer {
   letter-spacing: 0.04em;
 }
 
+.language-switcher {
+  align-items: center;
+  display: flex;
+  gap: 0.35rem;
+  justify-content: flex-end;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+}
+
+.language-switcher-label {
+  color: var(--global-text-color-light);
+  margin-right: 0.15rem;
+}
+
+.language-option {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.35rem;
+  color: var(--global-text-color-light);
+  cursor: pointer;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  padding: 0.15rem 0.35rem;
+}
+
+.language-option:hover,
+.language-option:focus,
+.language-option.active {
+  border-color: var(--global-theme-color);
+  color: var(--global-theme-color);
+  outline: none;
+}
+
+.language-divider {
+  color: var(--global-text-color-light);
+}
+
+.language-block[data-language-block='zh'] {
+  display: none;
+}
+
+html[data-language='zh'] .language-block[data-language-block='en'] {
+  display: none;
+}
+
+html[data-language='zh'] .language-block[data-language-block='zh'] {
+  display: block;
+}
+
 @media (max-width: 1199px) {
   .container {
     width: calc(100% - 2rem);

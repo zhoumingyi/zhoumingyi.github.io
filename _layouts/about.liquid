@@ -12,6 +12,12 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+    <div class="language-switcher" role="group" aria-label="Language selector">
+      <span class="language-switcher-label" data-language-label="en">Language</span>
+      <button type="button" class="language-option" data-language-switch="en" aria-pressed="true">EN</button>
+      <span class="language-divider" aria-hidden="true">/</span>
+      <button type="button" class="language-option" data-language-switch="zh" aria-pressed="false">中文</button>
+    </div>
   </header>
 
   <article>
@@ -30,12 +36,18 @@ layout: default
               {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
             {% endif %}
             {% if page.profile.more_info %}
-              <div class="more-info">{{ page.profile.more_info }}</div>
+              <div class="more-info language-block" data-language-block="en">{{ page.profile.more_info }}</div>
+            {% endif %}
+            {% if page.profile.more_info_zh %}
+              <div class="more-info language-block" data-language-block="zh">{{ page.profile.more_info_zh }}</div>
             {% endif %}
           </div>
         {% endif %}
 
-        <div class="about-intro">{{ content }}</div>
+        <div class="about-intro language-block" data-language-block="en">{{ content }}</div>
+        {% if page.intro_zh %}
+          <div class="about-intro language-block" data-language-block="zh">{{ page.intro_zh | markdownify }}</div>
+        {% endif %}
 
       </div>
 
@@ -44,7 +56,9 @@ layout: default
         {% if page.announcements and page.announcements.enabled %}
           <section class="about-section">
             <h2>
-              <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+              <a href="{{ '/news/' | relative_url }}" style="color: inherit">
+                <span data-language-text data-en="news" data-zh="新闻">news</span>
+              </a>
             </h2>
             {% include news.liquid limit=true %}
           </section>
@@ -54,7 +68,9 @@ layout: default
         {% if page.latest_posts and page.latest_posts.enabled %}
           <section class="about-section">
             <h2>
-              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">
+                <span data-language-text data-en="latest posts" data-zh="最新文章">latest posts</span>
+              </a>
             </h2>
             {% include latest_posts.liquid %}
           </section>
@@ -85,7 +101,8 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-note language-block" data-language-block="en">{{ site.contact_note }}</div>
+        <div class="contact-note language-block" data-language-block="zh">欢迎通过上述方式与我联系。</div>
       </div>
     {% endif %}
 
@@ -94,3 +111,5 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+<script defer src="{{ '/assets/js/language-switcher.js' | relative_url }}"></script>
