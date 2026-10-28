@@ -12,64 +12,97 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
+    <div class="language-switcher" role="group" aria-label="Language selector">
+      <span class="language-switcher-label" data-language-label="en">Language</span>
+      <button type="button" class="language-option" data-language-switch="en" aria-pressed="true">EN</button>
+      <span class="language-divider" aria-hidden="true">/</span>
+      <button type="button" class="language-option" data-language-switch="zh" aria-pressed="false">中文</button>
+    </div>
   </header>
 
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
+    <div class="about-grid">
+      <div class="about-main">
+        {% if page.profile %}
+          <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+            {% if page.profile.image %}
+              {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+              {% if page.profile.image_circular %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: 1200px) 240px, 80vw{% endcapture %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
+            {% endif %}
+            {% if page.profile.more_info %}
+              <div class="more-info language-block" data-language-block="en">{{ page.profile.more_info }}</div>
+            {% endif %}
+            {% if page.profile.more_info_zh %}
+              <div class="more-info language-block" data-language-block="zh">{{ page.profile.more_info_zh }}</div>
+            {% endif %}
+          </div>
         {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
+
+        <div class="about-intro language-block" data-language-block="en">{{ content }}</div>
+        {% if page.intro_zh %}
+          <div class="about-intro language-block" data-language-block="zh">{{ page.intro_zh | markdownify }}</div>
         {% endif %}
+
       </div>
-    {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+      <aside class="about-sidebar">
+        <!-- News -->
+        {% if page.announcements and page.announcements.enabled %}
+          <section class="about-section">
+            <h2>
+              <a href="{{ '/news/' | relative_url }}" style="color: inherit">
+                <span data-language-text data-en="news" data-zh="新闻">news</span>
+              </a>
+            </h2>
+            {% include news.liquid limit=true %}
+          </section>
+        {% endif %}
 
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+        <!-- Latest posts -->
+        {% if page.latest_posts and page.latest_posts.enabled %}
+          <section class="about-section">
+            <h2>
+              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">
+                <span data-language-text data-en="latest posts" data-zh="最新文章">latest posts</span>
+              </a>
+            </h2>
+            {% include latest_posts.liquid %}
+          </section>
+        {% endif %}
 
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
+        <!-- Selected papers -->
+        {% if page.selected_papers %}
+          <section class="about-section">
+            <h2>
+              <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+            </h2>
+            {% include selected_papers.liquid %}
+          </section>
+        {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
+        <!-- Fundings -->
+        {% if page.fundings %}
+          <section class="about-section">
+            <h2>fundings</h2>
+            {% include fundings.liquid %}
+          </section>
+        {% endif %}
+      </aside>
+    </div>
 
     <!-- Social -->
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-note language-block" data-language-block="en">{{ site.contact_note }}</div>
+        <div class="contact-note language-block" data-language-block="zh">欢迎通过上述方式与我联系。</div>
       </div>
     {% endif %}
 
@@ -78,3 +111,5 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+<script defer src="{{ '/assets/js/language-switcher.js' | relative_url }}"></script>

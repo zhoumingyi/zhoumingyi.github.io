@@ -10,12 +10,20 @@ profile:
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: zhoumingyi@buaa.edu.cn</p>
+    <p>Email: zhoumingyi [AT] buaa [DOT] edu [DOT] cn</p>
+  more_info_zh: >
+    <p>邮箱：zhoumingyi [AT] buaa [DOT] edu [DOT] cn</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+fundings: false # temporarily hide the funding and support section
 social: true # includes social icons at the bottom of the page
+
+intro_zh: |
+  2025 年 2 月，我加入北京航空航天大学，作为助理教授与 SMAT 实验室的胡春明教授和黎立教授开展合作。我于 2024 年 12 月获得蒙纳士大学博士学位。2021 年至 2024 年期间，我在蒙纳士大学 HumaniSE 实验室（由 John Grundy 教授负责）和 SMAT 实验室（由黎立教授负责）学习和研究，先后接受了 [黎立教授](https://lilicoding.github.io/)、[John Grundy 教授](https://sites.google.com/site/johncgrundy/)、[陈春阳教授](https://chunyang-chen.github.io/) 和 [陈骁博士](https://research.monash.edu/en/persons/xiao-chen) 的指导。在加入蒙纳士大学之前，我于 2017 年至 2021 年期间与 [刘翼鹏教授](https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm) 和 [朱策教授](https://www.avc2-lab.net/~eczhu/) 在电子科技大学开展研究合作。
+
+  我的研究兴趣包括 SE4AI、AI4SE、移动软件工程、人工智能安全、程序分析和计算机视觉，重点关注端侧人工智能的安全性与效率。我们的研究成果（例如 ArkAnalyzer、HapTest 和 HapRay）已经应用于 OpenHarmony 产品和一些主流商业应用。如果您对我的研究感兴趣，欢迎与我联系。
 
 announcements:
   enabled: true # includes a list of news items

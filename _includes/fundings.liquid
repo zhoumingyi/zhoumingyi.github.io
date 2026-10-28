@@ -1,0 +1,13 @@
+<div class="fundings-list">
+  {% for funding in site.data.fundings %}
+    <article class="funding-item">
+      <time class="funding-date" datetime="{{ funding.date | date: '%Y-%m-%d' }}">
+        {{ funding.date | date: '%b %Y' }}
+      </time>
+      <h3>{{ funding.title }}</h3>
+      {% if funding.description %}
+        <p>{{ funding.description }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
