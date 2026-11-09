@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our HarmonyOS project "LLM-Based Automatic Repair of Complex Code Defects in Low-Resource Scenarios" received the Huawei Spark Award! :sparkles: :smile:
+Our HarmonyOS project "LLM-Based Automatic Repair of Complex Code Defects in Low-Resource Scenarios" received the Huawei Spark Award  (华为火花奖)! :sparkles: :smile:
