@@ -3,6 +3,7 @@
   const defaultLanguage = 'en';
   const chineseIntro = '<p>2025 年 2 月，我加入北京航空航天大学，作为助理教授与 SMAT 实验室的胡春明教授和黎立教授开展合作。我于 2024 年 12 月获得蒙纳士大学博士学位。2021 年至 2024 年期间，我在蒙纳士大学 HumaniSE 实验室（由 John Grundy 教授负责）和 SMAT 实验室（由黎立教授负责）学习和研究，先后接受了 <a href="https://lilicoding.github.io/">黎立教授</a>、<a href="https://sites.google.com/site/johncgrundy/">John Grundy 教授</a>、<a href="https://chunyang-chen.github.io/">陈春阳教授</a> 和 <a href="https://research.monash.edu/en/persons/xiao-chen">陈骁博士</a> 的指导。在加入蒙纳士大学之前，我于 2017 年至 2021 年期间与 <a href="https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm">刘翼鹏教授</a> 和 <a href="https://www.avc2-lab.net/~eczhu/">朱策教授</a> 在电子科技大学开展研究合作。</p><p>我的研究兴趣包括 SE4AI、AI4SE、移动软件工程、人工智能安全、程序分析和计算机视觉，重点关注端侧人工智能的安全性与效率。我们的研究成果（例如 ArkAnalyzer、HapTest 和 HapRay）已经应用于 OpenHarmony 产品和一些主流商业应用。如果您对我的研究感兴趣，欢迎与我联系。</p>';
   const newsTranslations = {
+    'Nov 09, 2026': '关于 HarmonyOS 的项目“基于大模型的低语料复杂代码缺陷自动修复技术”获得华为火花奖！',
     'Oct 10, 2026': '获得 2026 年开源鸿蒙先锋课题奖！',
     'Aug 29, 2026': '受邀在华为上海发表演讲：Performance analysis for openHarmony apps: from rule-based methods to autonomous agents！',
     'Jul 26, 2026': '论文 "Security of Cross-Platform and Cross-Language Software Technologies: A Systematic Review" 被 ACM TOSEM 接收。祝贺 Yutong、Jiatong 和团队！',
